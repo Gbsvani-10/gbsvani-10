@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Bindu
+
+🎓 IT Student
+💻 Learning Software Development
+🌐 Interested in Web Technologies and AI
+🌍 Open Source Contributor
+
+🔭 Currently working on:
+- Web Development
+- Open Source Projects
+
+🌱 Currently learning:
+- Git & GitHub
+- Data Structures
 
 <!--
 **Gbsvani-10/gbsvani-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
