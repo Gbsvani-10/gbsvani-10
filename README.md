@@ -6,11 +6,12 @@
 🌍 Open Source Contributor
 
 🔭 Currently working on:
-- Web Development
-- Open Source Projects
+- Open Source Projects (https://gssoc.girlscript.org/profile/e68d7540-e821-4776-9716-4b197d7e54ea)
+- Campus Ambassador (https://ca.techfest.org/profile)
 
 🌱 Currently learning:
 - Git & GitHub
+- Web Development
 - Data Structures
 
 <!--
