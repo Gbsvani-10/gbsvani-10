@@ -1,18 +1,134 @@
-## Hi there 👋 I'm Bindu
+<div align="center">
 
-🎓 IT Student
-💻 Learning Software Development
-🌐 Interested in Web Technologies and AI
-🌍 Open Source Contributor
+# Hi, I'm Bindu Srivani 👋
 
-🔭 Currently working on:
-- Open Source Projects (https://gssoc.girlscript.org/profile/e68d7540-e821-4776-9716-4b197d7e54ea)
-- Campus Ambassador (https://ca.techfest.org/profile)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&duration=3000\&pause=800\&color=7AA2F7\&center=true\&vCenter=true\&width=650\&lines=IT+Student+%F0%9F%92%BB;Open-Source+Contributor+%F0%9F%8C%8D;Learning+Software+Development+%F0%9F%9A%80;Exploring+Web+Technologies+%26+AI+%F0%9F%A4%96;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
 
-🌱 Currently learning:
-- Git & GitHub
-- Web Development
-- Data Structures
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge\&logo=telegram\&logoColor=white)](YOUR_TELEGRAM_URL)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge\&logo=discord\&logoColor=white)](YOUR_DISCORD_URL)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge\&logo=substack\&logoColor=white)](YOUR_SUBSTACK_URL)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=for-the-badge\&color=7AA2F7\&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 👋 About Me
+
+I am an **Information Technology student** passionate about learning, building, and contributing to the world of technology.
+
+I am currently exploring **Software Development, Web Technologies, Artificial Intelligence, and Problem-Solving** while actively improving my technical skills through projects, open-source contributions, and continuous learning.
+
+* 🎓 IT Student
+* 🌍 Open-Source Contributor
+* 💻 Learning Software Development
+* 🌐 Exploring Web Technologies
+* 🤖 Interested in Artificial Intelligence
+* 🧠 Improving Problem-Solving Skills
+* 🚀 Always learning and building
+
+---
+
+## 🚀 What I'm Currently Working On
+
+* 🌍 Contributing to open-source projects
+* 🌐 Learning Web Development
+* 🤖 Exploring AI and emerging technologies
+* 🧠 Strengthening programming and problem-solving skills
+* 📚 Continuously learning new technologies
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat\&logo=c\&logoColor=white)
+
+### 🌐 Web Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat\&logo=html5\&logoColor=white)
+
+### 🔧 Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+
+### 🤖 Exploring
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat\&logo=openai\&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-FF6F00?style=flat\&logo=databricks\&logoColor=white)
+
+---
+
+## 🌍 Open Source
+
+I am interested in contributing to open-source projects and learning through real-world collaboration.
+
+My open-source journey includes:
+
+* 🔀 Pull Requests
+* 🐛 Bug Fixes
+* 📝 Documentation
+* 🌱 Continuous Learning
+* 🤝 Collaboration with Developers
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=4\&row=2\&column=4)
+
+</div>
+
+---
+
+## 🎯 My Goals
+
+* 🚀 Become a strong Software Developer
+* 🌍 Make meaningful open-source contributions
+* 🤖 Explore Artificial Intelligence
+* 💻 Build impactful projects
+* 📚 Continuously improve my technical skills
+* 🤝 Connect and collaborate with the developer community
+
+---
+
+<div align="center">
+
+⚡ **Fun fact:** I believe every project, contribution, and line of code is an opportunity to learn something new.
+
+✨ **Learn. Build. Contribute. Grow.**
+
+</div>
+
 
 <!--
 **Gbsvani-10/gbsvani-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
